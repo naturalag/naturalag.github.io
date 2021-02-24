@@ -6,6 +6,7 @@ pokkt.com, 6246, RESELLER, c45702d9311e25fd
 pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
 pubmatic.com, 157384, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159906, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
 spotxchange.com, 117872, RESELLER, 7842df1d2fe2db34
 spotx.tv, 117872, RESELLER, 7842df1d2fe2db34
 openx.com, 540871654, RESELLER, 6a698e2ec38604c6
